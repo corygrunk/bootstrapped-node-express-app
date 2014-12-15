@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapped-node-express-app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/corygrunk/bootstrapped-node-express-app",
+  "authors": [
+    "Cory Grunkemeyer <corygrunk@gmail.com>"
+  ],
+  "main": "public/css/main.css",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.1",
+    "font-awesome": "FortAwesome/Font-Awesome#~4.2.0"
+  }
+}

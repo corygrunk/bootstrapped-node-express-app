@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapped-node-express-app",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "A simple node app",
+  "dependencies": {
+    "express": "4.10.x",
+    "jade": "1.7.x",
+    "bower": "1.3.x"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "postinstall": "node_modules/.bin/bower install"
+  }
+}

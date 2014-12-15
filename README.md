@@ -1,4 +1,6 @@
-bootstrapped-node-express-app
-=============================
+Simple Express App Boilerplate
+==============================
 
-Simple bootstrapped Node app.
+Express app boilerplate. Express, Jade, Grunt, Bower, Bootstrap, Font-Awesome, Jquery. Ready to be pushed to Heroku or run locally.
+
+To install, run 'npm install'
