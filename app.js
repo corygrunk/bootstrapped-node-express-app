@@ -34,7 +34,7 @@ router.use(function(req, res, next) {
 // ==============================================
 
 router.get('/', function(req, res) {
-  res.render('index', {title : 'Meteorology'});
+  res.render('index', {title : 'Site Title'});
 });
 
 app.use('/', router);
